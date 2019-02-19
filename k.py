@@ -326,3 +326,4 @@ async def gif(ctx, *, msg: str):
 
 
 bot.run(token, bot=False)
+(COmment on le lance poto fait un tuto un truc)
